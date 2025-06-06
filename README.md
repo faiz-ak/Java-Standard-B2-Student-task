@@ -25,5 +25,9 @@ A list of each employee
 
 12.John Samuel Meshach - https://github.com/Johnsm123/Daily-Task-Java_Standard-02
 
-13.
+13.Subhasish Kabi - https://github.com/SubhasishKabi/TrainingTasks
+
+14.Rohit Maji - https://github.com/rohitmaji004/TECHACADEMY-DAILY-TASK-JAVA-STANDARD
+
+15.Kurakula Naga Chaithanya - https://github.com/nagachaithanya-2003/TASKS
 
