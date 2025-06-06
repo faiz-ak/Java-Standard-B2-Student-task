@@ -37,7 +37,11 @@ A list of each employee
 
 18.Pemula Jahnavi - https://github.com/jaanu-1407/Cognizant-Daily-Tasks.git
 
-19.
+19.Kapa Srinivasa Reddy - https://github.com/srinivasa-reddy-07/java-standard-daily-tasks.git
+
+20.Omm Pani - https://github.com/Omm-Pani/techademy-practice
+
+21.
 
 
 
