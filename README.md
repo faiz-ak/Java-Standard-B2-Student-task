@@ -31,3 +31,11 @@ A list of each employee
 
 15.Kurakula Naga Chaithanya - https://github.com/nagachaithanya-2003/TASKS
 
+16.Famiya Tasneem - https://github.com/Famiya-tasneem/CogniDailyTasks.git
+
+17.Kanuma Shyam Sundar Reddy - https://github.com/shyamsundarreddy17/Daily_tasks.git
+
+18.
+
+
+
