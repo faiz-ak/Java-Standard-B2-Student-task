@@ -2,16 +2,28 @@
 A list of each employee
 
 1.Faizan Akram- https://github.com/faiz-ak/Techademy-daily-task
+
 2.Aryaman Patra- https://github.com/AryamanPatra/CogniVIRINTDailyTasks.git
+
 3.Bibhab Panda - https://github.com/BibhabPanda/Techademy_Tasks
+
 4.Siddharth Krishna - https://github.com/SiddharthKrishna1/CognizantDailyTasks
+
 5.Adya Mishra - https://github.com/adya333/CognizantJavaStandardDailyTasks
+
 6.Sambhav Kumar Mohanty - https://github.com/sambhavkumar0/Cogz-Assignments
+
 7.Rohit Mohanty - https://github.com/RohitMohanty14/TechademyJAVAStandardDailyTasks
+
 8.Kesari Rahul - https://github.com/kesarirahul/daily-tasks
+
 9.Divya - https://github.com/divyabagi/Bagi-Divya-Techademy-tasks
+
 10.Zunaid Ahmed - https://github.com/Zunaid85/COGNIZANT-TECHADEMY-DAILY-TASKS
+
 11.Akash Mishra - https://github.com/akash7mishra7/Akash-Mishra-Techademy-Tasks
+
 12.John Samuel Meshach - https://github.com/Johnsm123/Daily-Task-Java_Standard-02
+
 13.
 
