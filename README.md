@@ -43,7 +43,7 @@ A list of each employee
 
 21.Kishor Bhagat - https://github.com/KishorBhagat/Kishor-Bhagat-2416467-cognizant-Techadamy-Daily-Tasks
 
-22.
+22.Ayush Ranjan - https://github.com/Ayush-200v/Daily_Tasks.git
 
 
 
