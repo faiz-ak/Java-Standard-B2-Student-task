@@ -35,7 +35,9 @@ A list of each employee
 
 17.Kanuma Shyam Sundar Reddy - https://github.com/shyamsundarreddy17/Daily_tasks.git
 
-18.
+18.Pemula Jahnavi - https://github.com/jaanu-1407/Cognizant-Daily-Tasks.git
+
+19.
 
 
 
