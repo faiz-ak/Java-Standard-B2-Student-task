@@ -47,5 +47,7 @@ A list of each employee
 
 23.Vignesh Sankar J - https://github.com/Vicky2817/Daily_Tasks
 
+24.Aniket Sinha - https://github.com/aniketsinha2002/Aniket_Sinha_2415787_cognizant_daily_task_JAVA-STANDARD
+
 
 
