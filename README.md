@@ -49,5 +49,7 @@ A list of each employee
 
 24.Aniket Sinha - https://github.com/aniketsinha2002/Aniket_Sinha_2415787_cognizant_daily_task_JAVA-STANDARD
 
+25.Pradeep Y - https://github.com/GURU-SAI-PRADEEP-Y/Daily_tasks_JS002/tree/main/TECHACADEMY-DAILY-TASK-JAVA-STANDARD-main
+
 
 
